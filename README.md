@@ -1,6 +1,6 @@
 ## Psychologie
 
-# Dass EGR-Triple 
+# **Dass** EGR-Triple 
 
 nach:
 EINSTEIN
