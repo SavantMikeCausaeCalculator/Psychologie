@@ -1,6 +1,6 @@
 ## Psychologie
 
-# Dass EGR-Triple
+# Dass EGR-Triple 
 
 nach:
 EINSTEIN
@@ -8,8 +8,11 @@ v. GLASERFELD
 RENNECKE-Bergmann
 
 Der Relativ Radikale Konstruktivismus (RRK):
+[Hier geht es zum ausführlichen Wiki-Archiv](https://github.com/SavantMikeCausaeCalculator/Psychologie/wiki)
 
 Die Architektur des (EGO)-Seins!
+
+⁠
 
 
 Willkommen zu einer neuen Sichtweise auf das Sein und das Ego. Ich bin Stefan-Mike Rennecke-Bergmann, und dies ist mein Entwurf einer Psychologie, die das Ego nicht als festes Zentrum, sondern als dynamischen, oft verzerrten Filter versteht.
